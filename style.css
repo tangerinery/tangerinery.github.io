@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: darkcyan;
+    text-align: center;
+}
+h2 {
+    color: darkcyan;
+    text-align: center;
+}
+.p1 {
+    text-align: center;
+}
+a:visited {
+    color: black;
+}
